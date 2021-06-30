@@ -1,3 +1,6 @@
+/*
+    PaletteCycling Shader by sushi
+*/
 shader_type canvas_item;
 
 uniform sampler2D gradient;
