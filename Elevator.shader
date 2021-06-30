@@ -1,5 +1,5 @@
 /*
-    Isometric Tile Shader by kleonc, Alan Thorn (BeIndie) and Elvisish.
+    Isometric Tile Shader by kleonc and Alan Thorn (BeIndie).
 */
 shader_type canvas_item;
 
